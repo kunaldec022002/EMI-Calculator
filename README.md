@@ -4,11 +4,11 @@ A simple and responsive EMI Calculator built using React and Vite. It helps user
 
 ## 🚀 Live Demo
 
-https://your-project.vercel.app
+https://emi-calculato.netlify.app/
 
 ## 📂 GitHub Repository
 
-https://github.com/yourusername/emi-calculator
+https://github.com/kunaldec022002/EMI-Calculator
 
 ---
 
@@ -31,11 +31,6 @@ https://github.com/yourusername/emi-calculator
 
 ---
 
-## 📸 Screenshot
-
-(Add a screenshot of your project here)
-
----
 
 ## 📋 How EMI is Calculated
 
@@ -51,19 +46,6 @@ Where:
 
 ---
 
-## ⚙️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/emi-calculator.git
-```
-
-Go to the project directory:
-
-```bash
-cd emi-calculator
-```
 
 Install dependencies:
 
