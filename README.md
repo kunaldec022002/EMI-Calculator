@@ -1,16 +1,124 @@
-# React + Vite
+# 💰 EMI Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive EMI Calculator built using React and Vite. It helps users calculate their monthly EMI, total interest payable, and total amount payable for a loan.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://your-project.vercel.app
 
-## React Compiler
+## 📂 GitHub Repository
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+https://github.com/yourusername/emi-calculator
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- Calculate Monthly EMI
+- Calculate Total Interest Payable
+- Calculate Total Payment Amount
+- Simple and Responsive UI
+- Fast and Easy to Use
+
+---
+
+## 🛠️ Technologies Used
+
+- React.js
+- Vite
+- CSS3
+- JavaScript (ES6)
+
+---
+
+## 📸 Screenshot
+
+(Add a screenshot of your project here)
+
+---
+
+## 📋 How EMI is Calculated
+
+\[
+EMI = \frac{P \times R \times (1+R)^N}{(1+R)^N -1}
+\]
+
+Where:
+
+- **P** = Principal Loan Amount
+- **R** = Monthly Interest Rate
+- **N** = Loan Tenure in Months
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/emi-calculator.git
+```
+
+Go to the project directory:
+
+```bash
+cd emi-calculator
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+---
+
+## 📁 Project Structure
+
+```
+emi-calculator
+│
+├── src
+│   ├── App.jsx
+│   ├── App.css
+│   └── main.jsx
+│
+├── public
+├── index.html
+├── package.json
+└── README.md
+```
+
+---
+
+## 👨‍💻 Author
+
+**Your Full Name**
+
+📧 Email: yourmail@example.com
+
+---
+
+## 🔗 Built for Digital Heroes
+
+This project was created as part of the Digital Heroes Developer Trial Task.
+
+Website: https://digitalheroesco.com
+
+---
+
+## 📜 License
+
+This project is open-source and available under the MIT License.
