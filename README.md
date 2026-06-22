@@ -87,9 +87,9 @@ emi-calculator
 
 ## 👨‍💻 Author
 
-**Your Full Name**
+**Kunal Anil Ingale **
 
-📧 Email: yourmail@example.com
+📧 Email: kunalingale72@gmail.com
 
 ---
 
